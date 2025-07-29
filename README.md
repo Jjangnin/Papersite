@@ -8,7 +8,7 @@
 <img width="2559" height="1599" alt="스크린샷 2025-06-06 094405" src="https://github.com/user-attachments/assets/2c30bbcd-4728-419b-854a-3928f9536c28" />
 <img width="2559" height="1599" alt="스크린샷 2025-06-06 094447" src="https://github.com/user-attachments/assets/0ea62142-c4ee-4361-9769-d30e3cbddafd" />
 
-2. 대학교 학과별 연구실 논문 탐색
+## 2. 대학교 학과별 연구실 논문 탐색
 <img width="2559" height="1599" alt="스크린샷 2025-06-06 094842" src="https://github.com/user-attachments/assets/ad102aa5-0ff8-4994-9071-c1b5c0881e9a" />
 <img width="2559" height="1599" alt="스크린샷 2025-06-06 094904" src="https://github.com/user-attachments/assets/25e0c159-5bc3-4b66-8692-617f32480786" />
 <img width="2557" height="1599" alt="스크린샷 2025-06-06 095355" src="https://github.com/user-attachments/assets/10cf2263-9b47-4483-8142-01e36e4bdfc9" />
