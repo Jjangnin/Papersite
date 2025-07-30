@@ -41,9 +41,9 @@
 
 | 항목              | 기술                              |
 |-------------------|-----------------------------------|
-| Language          | Java (JDK 8 이상)                 |
-| Web Server        | Apache Tomcat 9.x                 |
-| Database          | MySQL 8.x                         |
+| Language          | Java                              |
+| Web Server        | Apache Tomcat                     |
+| Database          | MySQL                             |
 | Framework         | Java Servlet, JSP                 |
 | Build Tool / API  | JDBC                              |
 
