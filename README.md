@@ -4,7 +4,7 @@
 
 ---
 
-## 📚 목차
+## 목차
 
 1. [프로젝트 개요](#-프로젝트-개요)
 2. [프로젝트 목적](#-프로젝트-수행-목적)
@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 프로젝트 개요
+## 프로젝트 개요
 
 **PaperPortal**은 대학원 진학을 희망하거나 학술 연구에 관심 있는 사람들을 위한  
 **논문 정보 공유 및 커뮤니티 플랫폼**입니다.
@@ -25,7 +25,7 @@
 
 ---
 
-## 🎯 프로젝트 수행 목적
+## 프로젝트 수행 목적
 
 연구에 관심 있는 사용자들이 다음과 같은 어려움을 겪고 있습니다:
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠 기술 스택
+## 기술 스택
 
 | 항목              | 기술                              |
 |-------------------|-----------------------------------|
@@ -49,7 +49,7 @@
 
 ---
 
-## 🚀 주요 기능 소개
+## 주요 기능 소개
 
 ### 1. 로그인 / 회원가입
 - 사용자는 계정을 등록하고 로그인하여 시스템 이용 가능
@@ -71,18 +71,18 @@
 
 ---
 
-## 🖼 스크린샷
+## 스크린샷
 
-> 📷 아래는 주요 기능에 대한 예시 화면입니다.                                
+> 아래는 주요 기능에 대한 예시 화면입니다.                                
 
-### 🔐 로그인 / 회원가입
+### 로그인 / 회원가입
 <img width="2559" height="1599" alt="스크린샷 2025-06-06 094405" src="https://github.com/user-attachments/assets/2c30bbcd-4728-419b-854a-3928f9536c28" />
 
 <img width="2559" height="1599" alt="스크린샷 2025-06-06 094447" src="https://github.com/user-attachments/assets/0ea62142-c4ee-4361-9769-d30e3cbddafd" />
 
 ---
 
-### 🏫 대학교 학과별 연구실 논문 탐색
+### 대학교 학과별 연구실 논문 탐색
 <img width="2559" height="1599" alt="스크린샷 2025-06-06 094842" src="https://github.com/user-attachments/assets/ad102aa5-0ff8-4994-9071-c1b5c0881e9a" />
 
 <img width="2559" height="1599" alt="스크린샷 2025-06-06 094904" src="https://github.com/user-attachments/assets/25e0c159-5bc3-4b66-8692-617f32480786" />
@@ -95,7 +95,7 @@
 
 ---
 
-### 🔍 논문 검색 및 동향 시각화
+### 논문 검색 및 동향 시각화
 <img width="2559" height="1599" alt="스크린샷 2025-06-06 095717" src="https://github.com/user-attachments/assets/a310ebee-80ce-4af0-a362-9c3f8bfa827a" />
 
 <img width="2559" height="1599" alt="스크린샷 2025-06-06 095732" src="https://github.com/user-attachments/assets/fe9a9d43-29f6-4d3d-a7f7-4c02f44034f6" />
@@ -104,7 +104,7 @@
 
 ---
 
-### 💬 논문 게시판 & 🔐 마이페이지
+### 논문 게시판 & 마이페이지
 <img width="2559" height="1599" alt="스크린샷 2025-06-06 110925" src="https://github.com/user-attachments/assets/060b4b78-d4d7-428c-abcd-106a0a1f3e5b" />
 
 <img width="2559" height="1599" alt="스크린샷 2025-06-06 105821" src="https://github.com/user-attachments/assets/c7b15509-4560-49ef-9fb7-7183b6ff4abb" />
